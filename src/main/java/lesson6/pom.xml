@@ -24,7 +24,7 @@
     </dependencies>
 
     <build>
-        <finalName>hello-world-servlet</finalName>
+        <finalName>hello</finalName>
 
         <plugins>
             <plugin>
@@ -44,7 +44,7 @@
                     <url>http://localhost:8080/manager/text</url>
                     <username>admin</username>
                     <password>admin</password>
-                    <path>/hello-world-servlet</path>
+                    <path>/hello</path>
                 </configuration>
             </plugin>
         </plugins>

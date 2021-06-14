@@ -3,7 +3,7 @@ import javax.servlet.*;
 import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
 
-@WebServlet("/hello-world-servlet")
+@WebServlet("/hello")
 public class HelloWorldServlet implements Servlet {
     private ServletConfig config;
 
